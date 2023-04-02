@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Food-App/static/css/main.90452bbf.css",
+    "main.js": "/Food-App/static/js/main.34461cd7.js",
+    "static/media/Meals.jpg": "/Food-App/static/media/Meals.10cf3087fdb34e6bac72.jpg",
+    "index.html": "/Food-App/index.html",
+    "main.90452bbf.css.map": "/Food-App/static/css/main.90452bbf.css.map",
+    "main.34461cd7.js.map": "/Food-App/static/js/main.34461cd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90452bbf.css",
+    "static/js/main.34461cd7.js"
+  ]
+}
